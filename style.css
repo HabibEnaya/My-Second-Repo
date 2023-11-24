@@ -8,13 +8,12 @@ h1 {
 }
 
 img {
-    height: 20%;
-    width: 100%;
+    height: 500px;
+    width: 500px;
 
 }
 
 .picture {
     width: 50%;
-    height: 20%;
     margin: 0px auto;
 }
