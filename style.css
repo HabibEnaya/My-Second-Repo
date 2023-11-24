@@ -6,3 +6,9 @@ h1 {
     color: brown;
     background-color: aqua;
 }
+
+img{
+    height: 200px;
+    width: 200px;
+    margin: 20px auto;
+}
